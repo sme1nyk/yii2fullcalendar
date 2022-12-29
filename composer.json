@@ -21,7 +21,7 @@
 		"yiisoft/yii2" : "*",
 		"yiisoft/yii2-jui" : "*",
 		"bower-asset/fullcalendar" : "3.10.2",
-		"bower-asset/sme1nyk/scheduler" : "^1.10.3"
+		"sme1nyk/scheduler" : "^1.10.3"
 	},
 	"require-dev": {
 		"codeception/codeception": "*"
@@ -42,5 +42,11 @@
 	},
 	"autoload": {
 		"psr-4": { "yii2fullcalendar\\": "" }
-	}
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/sme1nyk/fullcalendar-workspace"
+		}
+	]
 }
