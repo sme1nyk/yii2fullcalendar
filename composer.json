@@ -20,8 +20,8 @@
 	"require": {
 		"yiisoft/yii2" : "*",
 		"yiisoft/yii2-jui" : "*",
-		"bower-asset/fullcalendar" : "3.10.2@stable",
-		"bower-asset/fullcalendar-scheduler" : "1.10.1@stable"
+		"bower-asset/fullcalendar" : "3.10.2",
+		"bower-asset/fullcalendar-scheduler" : "1.10.1"
 	},
 	"require-dev": {
 		"codeception/codeception": "*"
