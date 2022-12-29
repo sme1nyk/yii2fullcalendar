@@ -38,7 +38,7 @@
 		}
 	},
 	"conflict": {
-		"bower-asset/fullcalendar": "^4.3.0"
+		"bower-asset/fullcalendar": "3.10.2"
 	},
 	"autoload": {
 		"psr-4": { "yii2fullcalendar\\": "" }
